@@ -1,6 +1,6 @@
 # Echoes Kernel 1.0.0
 
-Example Application using [Auxo.Net](https://github.com/allangomessl/auxo.net) Framework
+Sample Application using [Auxo.Net](https://github.com/allangomessl/auxo.net) Framework
 
 ### Tags
 `Asp.Net Core` `Entity Framework Core` `PostgresSQL` `Dependency Injection` `NUnit` `TestHost` `Json.Net`
