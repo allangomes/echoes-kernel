@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="0" testcasecount="3" result="Passed" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="1" portable-engine-version="3.3.0.0" start-time="2016-10-29 00:46:12Z" end-time="2016-10-29 00:46:20Z" duration="7.472340">
+  <test-suite type="Assembly" id="1004" name="Echoes.API.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" fullname="Echoes.API.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" runstate="Runnable" testcasecount="3" result="Passed" start-time="2016-10-29 00:46:12Z" end-time="2016-10-29 00:46:20Z" duration="7.182768" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="1">
+    <settings>
+      <setting name="WorkDirectory" value="/Users/allangomes/dev/otica-kernel/test/Echoes.API.Test" />
+    </settings>
+    <test-suite type="TestSuite" id="1005" name="Echoes" fullname="Echoes" runstate="Runnable" testcasecount="3" result="Passed" start-time="2016-10-29 00:46:12Z" end-time="2016-10-29 00:46:20Z" duration="7.168101" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="1">
+      <test-suite type="TestSuite" id="1006" name="API" fullname="Echoes.API" runstate="Runnable" testcasecount="3" result="Passed" start-time="2016-10-29 00:46:12Z" end-time="2016-10-29 00:46:20Z" duration="7.167695" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="1">
+        <test-suite type="TestSuite" id="1007" name="Test" fullname="Echoes.API.Test" runstate="Runnable" testcasecount="3" result="Passed" start-time="2016-10-29 00:46:12Z" end-time="2016-10-29 00:46:20Z" duration="7.164975" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="1">
+          <test-suite type="TestSuite" id="1008" name="State" fullname="Echoes.API.Test.State" runstate="Runnable" testcasecount="3" result="Passed" start-time="2016-10-29 00:46:12Z" end-time="2016-10-29 00:46:20Z" duration="7.164673" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="1">
+            <test-suite type="TestFixture" id="1000" name="State_HappyWay" fullname="Echoes.API.Test.State.State_HappyWay" classname="Echoes.API.Test.State.State_HappyWay" runstate="Runnable" testcasecount="3" result="Passed" start-time="2016-10-29 00:46:12Z" end-time="2016-10-29 00:46:19Z" duration="7.156452" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="1">
+              <test-case id="1001" name="Return_Empty_Array" fullname="Echoes.API.Test.State.State_HappyWay.Return_Empty_Array" methodname="Return_Empty_Array" classname="Echoes.API.Test.State.State_HappyWay" runstate="Runnable" seed="2087474935" result="Passed" start-time="2016-10-29 00:46:12Z" end-time="2016-10-29 00:46:17Z" duration="4.728545" asserts="0">
+                <properties>
+                  <property name="Order" value="1" />
+                </properties>
+              </test-case>
+              <test-case id="1002" name="Insert_Model_And_Return_Self" fullname="Echoes.API.Test.State.State_HappyWay.Insert_Model_And_Return_Self" methodname="Insert_Model_And_Return_Self" classname="Echoes.API.Test.State.State_HappyWay" runstate="Runnable" seed="2082689360" result="Passed" start-time="2016-10-29 00:46:17Z" end-time="2016-10-29 00:46:19Z" duration="2.035454" asserts="0">
+                <properties>
+                  <property name="Order" value="2" />
+                </properties>
+              </test-case>
+              <test-case id="1003" name="Delete_Model_And_Return_Not_Content" fullname="Echoes.API.Test.State.State_HappyWay.Delete_Model_And_Return_Not_Content" methodname="Delete_Model_And_Return_Not_Content" classname="Echoes.API.Test.State.State_HappyWay" runstate="Runnable" seed="1498699601" result="Passed" start-time="2016-10-29 00:46:19Z" end-time="2016-10-29 00:46:19Z" duration="0.285138" asserts="1">
+                <properties>
+                  <property name="Order" value="3" />
+                </properties>
+              </test-case>
+            </test-suite>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

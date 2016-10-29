@@ -1,0 +1,9 @@
+{
+    "echoes_db": {
+        "database": "echoes_test",
+        "username": "",
+        "password": "",
+        "hostname": "127.0.0.1",
+        "port": 5432
+    }
+}
